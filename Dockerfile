@@ -1,2 +1,2 @@
 FROM python:3.11-slim
-RUN pip install Flask
+RUN pip install flask
